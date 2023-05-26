@@ -20,7 +20,7 @@ Any useful additions are welcome.
 
 Create a new Markdown file in the `docs` folder.
 
-You may also use existing subfolders or create new ones to organize your pages.
+You may also use existing sub-folders or create new ones to organize your pages.
 
 ### How to Edit the `navigation.json` File
 

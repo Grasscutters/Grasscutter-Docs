@@ -1,3 +1,34 @@
-{
-
-}
+[
+  {
+    "name": "Introduction",
+    "_type": "file",
+    "path": "Home.md"
+  },
+  {
+    "name": "Working with Grasscutter",
+    "_type": "file",
+    "path": "Contributing.md"
+  },
+  {
+    "name": "Guides",
+    "_type": "dir",
+    "_main": true,
+    "children": [
+      {
+        "name": "Running",
+        "_type": "file",
+        "path": "Guide/Running.md"
+      },
+      {
+        "name": "Connecting",
+        "_type": "file",
+        "path": "Guide/Connecting.md"
+      },
+      {
+        "name": "Troubleshooting",
+        "_type": "file",
+        "path": "Guide/Troubleshooting.md"
+      }
+    ]
+  }
+]
